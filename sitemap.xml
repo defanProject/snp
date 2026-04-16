@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://snaptok.lol/en</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://snaptok.lol/en"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://snaptok.lol/id"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://snaptok.lol/ru"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://snaptok.lol/zh"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://snaptok.lol/ja"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://snaptok.lol/en"/>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/en/tiktok-download</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://snaptok.lol/en/tiktok-download"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://snaptok.lol/id/tiktok-download"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://snaptok.lol/ru/tiktok-download"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://snaptok.lol/zh/tiktok-download"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://snaptok.lol/ja/tiktok-download"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/en/tiktok-search</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://snaptok.lol/en/tiktok-search"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://snaptok.lol/id/tiktok-search"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://snaptok.lol/ru/tiktok-search"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://snaptok.lol/zh/tiktok-search"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://snaptok.lol/ja/tiktok-search"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/en/trending</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://snaptok.lol/en/trending"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://snaptok.lol/id/trending"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://snaptok.lol/ru/trending"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://snaptok.lol/zh/trending"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://snaptok.lol/ja/trending"/>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/en/faq</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://snaptok.lol/en/faq"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://snaptok.lol/id/faq"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://snaptok.lol/ru/faq"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://snaptok.lol/zh/faq"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://snaptok.lol/ja/faq"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/en/guide</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://snaptok.lol/en/guide"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://snaptok.lol/id/guide"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://snaptok.lol/ru/guide"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://snaptok.lol/zh/guide"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://snaptok.lol/ja/guide"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/en/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://snaptok.lol/en/privacy"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://snaptok.lol/id/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://snaptok.lol/ru/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://snaptok.lol/zh/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://snaptok.lol/ja/privacy"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/en/terms</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://snaptok.lol/en/terms"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://snaptok.lol/id/terms"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://snaptok.lol/ru/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://snaptok.lol/zh/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://snaptok.lol/ja/terms"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/en/cookies</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://snaptok.lol/en/cookies"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://snaptok.lol/id/cookies"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://snaptok.lol/ru/cookies"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://snaptok.lol/zh/cookies"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://snaptok.lol/ja/cookies"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/en/status</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://snaptok.lol/en/status"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://snaptok.lol/id/status"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://snaptok.lol/ru/status"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://snaptok.lol/zh/status"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://snaptok.lol/ja/status"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://snaptok.lol/id</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/id/tiktok-download</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/id/tiktok-search</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/id/trending</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/id/faq</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/id/guide</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/id/privacy</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/id/terms</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/id/cookies</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/id/status</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://snaptok.lol/ru</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/ru/tiktok-download</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/ru/tiktok-search</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/ru/trending</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/ru/faq</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/ru/guide</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/ru/privacy</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/ru/terms</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/ru/cookies</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/ru/status</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://snaptok.lol/zh</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/zh/tiktok-download</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/zh/tiktok-search</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/zh/trending</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/zh/faq</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/zh/guide</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/zh/privacy</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/zh/terms</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/zh/cookies</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/zh/status</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>https://snaptok.lol/ja</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/ja/tiktok-download</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/ja/tiktok-search</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/ja/trending</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/ja/faq</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/ja/guide</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/ja/privacy</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/ja/terms</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/ja/cookies</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://snaptok.lol/ja/status</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>
